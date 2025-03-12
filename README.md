@@ -2,3 +2,4 @@
 [Techy Blinders, Webpage](https://pupt-dit-techy-blinders.netlify.app/)
 [Consultado, Kirby](https://pupt-dit-techy-blinders.netlify.app/consultado_kirby/)
 [Piadozo, Edriane](https://pupt-dit-techy-blinders.netlify.app/piadozo_edriane/)
+[Veslino, Marc](https://pupt-dit-techy-blinders.netlify.app/veslino_marc)
