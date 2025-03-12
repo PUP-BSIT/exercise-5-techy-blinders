@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Interests and Hobbies</title>
+    <style>
+        /* Basic responsive styles without design elements */
+        .interest-hobbies {
+            width: 100%;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 15px;
+        }
+        
+        .container-ul {
+            width: 100%;
+        }
+        
+        .unlisted ul {
+            padding-left: 20px; /* Just enough padding for the bullets */
+        }
+        
+        /* Simple media queries for responsiveness */
+        @media screen and (max-width: 768px) {
+            .interest-hobbies h2 {
+                font-size: 1.5rem;
+            }
+        }
+        
+        @media screen and (max-width: 480px) {
+            .interest-hobbies h2 {
+                font-size: 1.2rem;
+            }
+            
+            .unlisted ul {
+                padding-left: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="interest-hobbies">
+        <h2>My interest and hobbies</h2>
+        <div class="container-ul">
+            <div class="unlisted">
+                <ul>
+                    <li>Online games</li>
+                    <li>Soccer</li>
+                    <li>Gym</li>
+                    <li>Coding</li>
+                    <li>Watching</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
